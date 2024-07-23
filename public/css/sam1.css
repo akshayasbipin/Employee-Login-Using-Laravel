@@ -1,0 +1,15 @@
+.container {
+  display: grid;
+  place-items: center;    /* Centers both horizontally and vertically */
+  height: 100vh;  
+}
+button{
+    /* Additional button styling */
+    background-color:#001f3f;
+    color:white;
+    padding:20px;
+}
+body{
+  background-color: #dcefff;
+}
+  
