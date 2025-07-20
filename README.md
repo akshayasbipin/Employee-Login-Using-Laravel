@@ -19,8 +19,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/akshayasbipin/app-crud--draft.git
-
-   <table>
   <tr>
     <td><img src="Table.png"></td>
     <td><img src="Dashboard.png"></td>
